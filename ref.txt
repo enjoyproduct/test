@@ -1,0 +1,47 @@
+﻿
+
+===Milestone
+*1. 200$ upfront for guarrantee 
+*2. 500$ for UI and design 
+3. 600$ for first of iOS and website. 
+4. 300$ after bug fix and deliver final version.
+
+UDID = a11cb68057f40bf4a97d0e630d231c2c1b21ae43
+     = f34dafa7a83799f5487e6ba6fe39077fae82e844
+Product = iPhone5,4
+Serial number = F8VQJ0A7G07T
+Product Version = 13G35
+
+===apple account
+ali.benkahla@laposte.net
+Benkahla130385
+
+===godaddy
+wed.stickers@gmail.com
+Benkahla1
+=======cpanel
+username: aliwebdesigner
+pass: Benkahla1@
+
+Admin page : http://lacuilliereapp.com/lacuilliere
+=======DB
+	'hostname' => 'localhost',
+	'username' => 'ali_webdesigner',
+	'password' => 'root1016',
+	'database' => 'db_lacuilliere',
+
+===addressing
+[11/4/2016 10:33:26 PM] ali webdesigner: for example 32 AVENUE JAURES, 94000 stains
+[11/4/2016 10:33:32 PM] ali webdesigner: its for region 94
+[11/4/2016 10:33:50 PM] ali webdesigner: and the city apart in page 3 is « STAINS"
+[11/4/2016 10:33:58 PM] ali webdesigner: i need in admin site one line for full adress
+[11/4/2016 10:34:14 PM] ali webdesigner: and one line just to put the city or the suburb (for paris)
+[11/4/2016 10:34:33 PM] ali webdesigner: and one line to add the region
+========
+Full address is consist by City(or region) + suburb( in case of paris) + detail address
+======= Regions(department)
+appears a list with 7 lines. Paris, 94, 93, 95, 78 ,77, 92
+=====Paris subrub
+1er , 2ème ,3ème, 4ème, … until 20 ème (only first suburb finishes with « er », other ones finish by « ème »
+=== app icon size
+ 40,60, 58,80, 87, 120, 180
