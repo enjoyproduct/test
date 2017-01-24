@@ -30,18 +30,3 @@ Admin page : http://lacuilliereapp.com/lacuilliere
 	'password' => 'root1016',
 	'database' => 'db_lacuilliere',
 
-===addressing
-[11/4/2016 10:33:26 PM] ali webdesigner: for example 32 AVENUE JAURES, 94000 stains
-[11/4/2016 10:33:32 PM] ali webdesigner: its for region 94
-[11/4/2016 10:33:50 PM] ali webdesigner: and the city apart in page 3 is « STAINS"
-[11/4/2016 10:33:58 PM] ali webdesigner: i need in admin site one line for full adress
-[11/4/2016 10:34:14 PM] ali webdesigner: and one line just to put the city or the suburb (for paris)
-[11/4/2016 10:34:33 PM] ali webdesigner: and one line to add the region
-========
-Full address is consist by City(or region) + suburb( in case of paris) + detail address
-======= Regions(department)
-appears a list with 7 lines. Paris, 94, 93, 95, 78 ,77, 92
-=====Paris subrub
-1er , 2ème ,3ème, 4ème, … until 20 ème (only first suburb finishes with « er », other ones finish by « ème »
-=== app icon size
- 40,60, 58,80, 87, 120, 180
